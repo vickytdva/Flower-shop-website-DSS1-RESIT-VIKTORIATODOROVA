@@ -1,0 +1,3 @@
+I tried and firstly my login and register worked perfectly but i cant make them work now i know its not a social media app but one day i want to have my own flower shop and i tried to make a beautiful website and i know there is more stuff that i can make better and i will try :)<img width="1470" alt="Screenshot 2024-08-31 at 10 25 09 PM" src="https://github.com/user-attachments/assets/bcaada68-d00e-416a-b934-d943ca9d40e3">
+<img width="1470" alt="Screenshot 2024-08-31 at 10 25 01 PM" src="https://github.com/user-attachments/assets/ade6fa3b-436b-46a5-ba22-4a01e4c5c379">
+<img width="1470" alt="Screenshot 2024-08-31 at 10 24 53 PM" src="https://github.com/user-attachments/assets/1c9cfd41-75e3-468e-b2f8-55c4c6d63f25">
